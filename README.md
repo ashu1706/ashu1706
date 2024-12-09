@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/ashu1706/count.svg?"  />
-
-###
-
 <p align="left">🔭 I’m currently working on Drone based animal Surveillance System</p>
 
 ###
@@ -21,6 +17,14 @@
 ###
 
 <p align="left">📫Reach me at enashusingh001@gmail.com</p>
+
+###
+
+<h2 align="left">Languages & Tools:</h2>
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/ashu1706/count.svg?"  />
 
 ###
 
@@ -75,6 +79,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu1706&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ashu1706&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h2 align="left">Connect me at:</h2>
 
 ###
 
