@@ -1,5 +1,5 @@
 ![logo](https://github.com/ashu1706/ashu1706/blob/main/ashusingh-header-image%20(1).png)
-<h3 align="left">I am a tech enthusiast passionate about exploring the endless possibilities of Artificial Intelligence, Machine Learning, and Emerging Technologies. With a curious mindset and a drive for innovation, I aim to create impactful solutions that bridge the gap between technology and real-world applications. My journey is fueled by continuous learning, collaboration, and the pursuit of excellence.</h3>
+<h5 align="left">I am a tech enthusiast passionate about exploring the endless possibilities of Artificial Intelligence, Machine Learning, and Emerging Technologies. With a curious mindset and a drive for innovation, I aim to create impactful solutions that bridge the gap between technology and real-world applications. My journey is fueled by continuous learning, collaboration, and the pursuit of excellence.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZFkfEcgBREFZC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu1706&label=Profile%20views&color=0e75b6&style=flat" alt="ashu1706" /> </p>
